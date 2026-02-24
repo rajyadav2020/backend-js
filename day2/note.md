@@ -1,0 +1,2 @@
+learned about
+proxy,cors
